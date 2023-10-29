@@ -7,4 +7,14 @@ initialize go project with:
 [go_project_structure](https://github.com/golang-standards/project-layout)
 
 
--api (specs, parameter, endpoints)
+<!-- -api (specs, parameter, endpoints) -->
+
+## install packages
+
+use
+
+```go mod tidy```
+
+## run
+
+```go run cmd/api/main.go```
